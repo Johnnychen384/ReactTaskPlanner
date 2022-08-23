@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactTaskPlanner/static/css/main.0a6d2099.css",
+    "main.js": "/ReactTaskPlanner/static/js/main.d0b242c2.js",
+    "static/js/787.1c16c8bd.chunk.js": "/ReactTaskPlanner/static/js/787.1c16c8bd.chunk.js",
+    "index.html": "/ReactTaskPlanner/index.html",
+    "main.0a6d2099.css.map": "/ReactTaskPlanner/static/css/main.0a6d2099.css.map",
+    "main.d0b242c2.js.map": "/ReactTaskPlanner/static/js/main.d0b242c2.js.map",
+    "787.1c16c8bd.chunk.js.map": "/ReactTaskPlanner/static/js/787.1c16c8bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a6d2099.css",
+    "static/js/main.d0b242c2.js"
+  ]
+}
